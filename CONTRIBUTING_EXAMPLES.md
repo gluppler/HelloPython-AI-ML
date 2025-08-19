@@ -159,7 +159,7 @@ random.seed(seed)
 
 ```markdown
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-    https://colab.research.google.com/github/YOUR_USER/HelloPython-AI-ML/blob/main/notebooks/mnist_baseline.ipynb
+    https://colab.research.google.com/github/gluppler/HelloPython-AI-ML/blob/main/notebooks/mnist_baseline.ipynb
 )
 ```
 
